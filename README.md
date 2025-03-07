@@ -1,7 +1,5 @@
 # 🔮 Quantum Chess: Quantum Gaming on Core Blockchain
 
-![Quantum Chess Banner](https://via.placeholder.com/1200x300?text=Quantum+Chess+Revolution)
-
 [![Built on Core](https://img.shields.io/badge/Built%20on-Core-blue)](https://coredao.org)
 [![Smart Contract](https://img.shields.io/badge/Smart%20Contract-Solidity-363636)](https://soliditylang.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -10,8 +8,8 @@
 
 **Quantum Chess**  takes the ancient game of chess and introduces quantum mechanics principles directly into gameplay on Core blockchain. You can experience a fusion of strategic thinking and quantum uncertainty where pieces can exist in multiple states simultaneously and create an entirely new dimension of gameplay that challenges even the most experienced chess masters.
 
-> *"Not even the greatest chess masters can prepare for the quantum realm. Every move creates unlimited possibilities."*
-14|
+> *"Not even the greatest chess masters can prepare for the quantum rules."*
+
 
 ## 🌌 Quantum Chess Rules
 
