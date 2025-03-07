@@ -1,0 +1,36 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    depends_on:
+      - db
+    environment:
+      - SERVER_HOST=0.0.0.0
+      - SERVER_PORT=8080
+      - DATABASE_URL=postgres://postgres:postgres@db:5432/quantum_chess
+      - CORE_BLOCKCHAIN_URL=${CORE_BLOCKCHAIN_URL}
+      - CORE_PRIVATE_KEY=${CORE_PRIVATE_KEY}
+      - CORE_CONTRACT_ADDRESS=${CORE_CONTRACT_ADDRESS}
+    restart: unless-stopped
+    volumes:
+      - ./logs:/app/logs
+  
+  db:
+    image: postgres:14
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=quantum_chess
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+
+volumes:
+  postgres_data:

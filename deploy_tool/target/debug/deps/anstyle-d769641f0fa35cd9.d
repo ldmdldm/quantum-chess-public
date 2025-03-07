@@ -1,0 +1,12 @@
+/Users/ldm/quantum-chess/deploy_tool/target/debug/deps/libanstyle-d769641f0fa35cd9.rmeta: /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/lib.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/macros.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/color.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/effect.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/reset.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/style.rs
+
+/Users/ldm/quantum-chess/deploy_tool/target/debug/deps/libanstyle-d769641f0fa35cd9.rlib: /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/lib.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/macros.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/color.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/effect.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/reset.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/style.rs
+
+/Users/ldm/quantum-chess/deploy_tool/target/debug/deps/anstyle-d769641f0fa35cd9.d: /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/lib.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/macros.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/color.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/effect.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/reset.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/style.rs
+
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/lib.rs:
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/macros.rs:
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/color.rs:
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/effect.rs:
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/reset.rs:
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-1.0.10/src/style.rs:

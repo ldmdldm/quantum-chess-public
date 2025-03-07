@@ -1,0 +1,12 @@
+/Users/ldm/quantum-chess/deploy_tool/target/debug/deps/libcoins_core-ff36ca47e1394945.rmeta: /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/lib.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/macros.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/enc.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/hashes.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/prelude.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/ser.rs
+
+/Users/ldm/quantum-chess/deploy_tool/target/debug/deps/libcoins_core-ff36ca47e1394945.rlib: /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/lib.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/macros.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/enc.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/hashes.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/prelude.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/ser.rs
+
+/Users/ldm/quantum-chess/deploy_tool/target/debug/deps/coins_core-ff36ca47e1394945.d: /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/lib.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/macros.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/enc.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/hashes.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/prelude.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/ser.rs
+
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/lib.rs:
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/macros.rs:
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/enc.rs:
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/hashes.rs:
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/prelude.rs:
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/coins-core-0.8.7/src/ser.rs:

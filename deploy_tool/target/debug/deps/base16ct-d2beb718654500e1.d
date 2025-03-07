@@ -1,0 +1,12 @@
+/Users/ldm/quantum-chess/deploy_tool/target/debug/deps/libbase16ct-d2beb718654500e1.rmeta: /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/lib.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/lower.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/mixed.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/upper.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/display.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/error.rs
+
+/Users/ldm/quantum-chess/deploy_tool/target/debug/deps/libbase16ct-d2beb718654500e1.rlib: /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/lib.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/lower.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/mixed.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/upper.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/display.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/error.rs
+
+/Users/ldm/quantum-chess/deploy_tool/target/debug/deps/base16ct-d2beb718654500e1.d: /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/lib.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/lower.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/mixed.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/upper.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/display.rs /Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/error.rs
+
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/lib.rs:
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/lower.rs:
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/mixed.rs:
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/upper.rs:
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/display.rs:
+/Users/ldm/.cargo/registry/src/index.crates.io-6f17d22bba15001f/base16ct-0.2.0/src/error.rs:
