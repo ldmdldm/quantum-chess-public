@@ -2,11 +2,13 @@ mod state;
 mod board;
 mod moves;
 mod quantum;
+mod rules;
 
 pub use state::{GameState, GameStatus, Player, PlayerInfo};
 pub use board::{Board, Position, Piece, PieceType};
 pub use moves::{Move, MoveResult, MoveType, ProbabilityZone};
 pub use quantum::{QuantumState, Superposition, Entanglement};
+pub use rules::{QuantumRules, QuantumEffect, EntanglementRule, SuperpositionRule};
 
 /// Game module error types
 #[derive(Debug, thiserror::Error)]

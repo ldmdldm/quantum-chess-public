@@ -11,6 +11,89 @@
 **Quantum Chess** revolutionizes the ancient game of chess by introducing quantum mechanics principles directly into gameplay, all secured and enhanced by Core blockchain technology. Experience a mind-bending fusion of strategic thinking and quantum uncertainty where pieces can exist in multiple states simultaneously, creating an entirely new dimension of gameplay that challenges even the most experienced chess masters.
 
 > *"Not even the greatest chess masters can prepare for the quantum realm. Every move creates unlimited possibilities."*
+14|
+
+## 🌌 Quantum Chess Rules
+
+Quantum Chess merges classical chess with quantum mechanics to create a revolutionary gaming experience. Understanding these rules is essential for mastering the game.
+
+### Fundamental Principles
+
+#### ⚛️ Superposition
+- **Definition**: A piece in superposition exists in multiple board positions simultaneously
+- **Creation**: Use a "Q-Move" action instead of a standard move
+- **Limitation**: Each player may have a maximum of 3 pieces in superposition at any time
+- **Visualization**: Pieces in superposition appear semi-transparent on all potential positions
+
+#### 🔄 Quantum Entanglement
+- **Definition**: Two pieces become linked so that observing one affects the other instantly
+- **Creation**: Use the "Entangle" action on two of your pieces
+- **Effect**: When one entangled piece is forced to collapse, its partner also collapses according to correlated probabilities
+- **Limitation**: Each piece can be entangled with only one other piece
+
+#### 📊 Measurement & Collapse
+- **Definition**: When a piece in superposition is captured or performs a capture, it "collapses" to a single position
+- **Trigger**: Interaction with another piece, either by capturing or being captured
+- **Probability**: The position it collapses to is determined by quantum probability calculations
+- **Chain Reaction**: May trigger collapse of entangled pieces
+
+### Game Mechanics
+
+#### Setup and Board
+- Standard 8×8 chess board with traditional starting positions
+- Each player begins with standard chess pieces
+- Quantum state tracker displays at the side of the board
+
+#### Turn Structure
+1. **Move Phase**: Choose to make either:
+   - A Classical Move (standard chess rules)
+   - A Quantum Move (place a piece in superposition)
+   - An Entanglement Action (link two of your pieces)
+   
+2. **Measurement Phase**:
+   - If your move creates an attack on an opponent's superposed piece, measurement occurs
+   - If your move places a piece in the same position as an opponent's superposed piece, measurement occurs
+   - All affected pieces collapse according to quantum probabilities
+
+#### Special Quantum Moves
+
+1. **Q-Split** (Superposition Creation):
+   - Move a piece to two possible positions simultaneously
+   - Each position must be a legal move for that piece
+   - Assign probability distributions across positions (default: equal probability)
+
+2. **Q-Merge**:
+   - Voluntarily collapse your own superposed piece
+   - You select which valid position the piece collapses to
+
+3. **Q-Link** (Entanglement):
+   - Connect two of your pieces that aren't in superposition
+   - Creates quantum relationship between pieces
+   - Can be performed instead of a movement
+
+#### Winning the Game
+
+- **Checkmate**: Place opponent's king in checkmate across all possible states
+- **Quantum Checkmate**: Create a superposition where all possible states lead to checkmate
+- **Resignation**: A player may resign at any time
+- **Time Control**: Standard chess clock rules apply
+
+### Strategy Tips
+
+1. **Uncertainty as Defense**: Place important pieces in superposition to make them harder to capture
+2. **Quantum Fork**: Create superpositions that threaten multiple pieces simultaneously
+3. **Entanglement Trap**: Entangle pieces to create correlated defenses or attacks
+4. **Measurement Forcing**: Strategically force measurements to collapse opponent's quantum advantage
+5. **Probability Shifting**: Advanced players can manipulate collapse probabilities through careful setup
+
+### Differences from Classical Chess
+
+1. **Non-deterministic outcomes**: Captures may succeed or fail based on quantum probability
+2. **Expanded decision space**: More possible moves and strategies
+3. **Incomplete information**: Opponents' superposed pieces have uncertain positions
+4. **Multi-dimensional thinking**: Must consider all possible board states simultaneously
+
+The integration with Core blockchain ensures all quantum states and probabilities are provably fair and cannot be manipulated, creating a truly revolutionary gaming experience.
 
 ## 🚀 Key Features
 
