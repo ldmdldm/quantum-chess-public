@@ -1,3 +1,154 @@
+# 🔮 Quantum Chess: The Future of Strategic Gaming on Core Blockchain
+
+![Quantum Chess Banner](https://via.placeholder.com/1200x300?text=Quantum+Chess+Revolution)
+
+[![Built on Core](https://img.shields.io/badge/Built%20on-Core-blue)](https://coredao.org)
+[![Smart Contract](https://img.shields.io/badge/Smart%20Contract-Solidity-363636)](https://soliditylang.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+## 🌌 Project Overview
+
+**Quantum Chess** revolutionizes the ancient game of chess by introducing quantum mechanics principles directly into gameplay, all secured and enhanced by Core blockchain technology. Experience a mind-bending fusion of strategic thinking and quantum uncertainty where pieces can exist in multiple states simultaneously, creating an entirely new dimension of gameplay that challenges even the most experienced chess masters.
+
+> *"Not even the greatest chess masters can prepare for the quantum realm. Every move creates unlimited possibilities."*
+
+## 🚀 Key Features
+
+- **⚛️ Quantum Superposition**: Pieces can exist in multiple positions simultaneously until observed
+- **🔄 Quantum Entanglement**: Link pieces together so actions on one affect the other regardless of board position
+- **💰 On-Chain Staking**: Place bets on games with our native QCT (Quantum Chess Token)
+- **🏆 Blockchain Tournaments**: Compete in decentralized tournaments with transparent scoring
+- **🎭 Quantum Identity**: Each piece has its own NFT identity with unique quantum attributes
+- **🔐 Zero-Knowledge Proofs**: Secure and private gameplay verification
+- **📱 Cross-Platform Play**: Available on Web, iOS and Android with seamless blockchain integration
+
+## 🧪 Technical Innovation
+
+Quantum Chess introduces a paradigm shift in blockchain gaming by:
+
+1. Implementing quantum algorithms directly in game mechanics
+2. Using smart contracts to enforce quantum rules
+3. Creating a provably fair random system based on quantum entropy
+4. Generating game states that can exist across multiple blockchain states simultaneously
+
+## 🛠️ Technical Stack
+
+### Frontend
+- React/Next.js for web client
+- React Native for mobile apps
+- Three.js for 3D board visualization
+- Ethers.js for blockchain integration
+
+### Backend
+- Rust for high-performance game state computation
+- Axum web framework for API endpoints
+- PostgreSQL for persistent storage
+- Redis for caching
+
+### Blockchain
+- Solidity smart contracts for game logic and token management
+- Core blockchain for low gas fees and high throughput
+- OpenZeppelin for contract security standards
+- IPFS for decentralized storage of game assets
+
+## 🌐 Smart Contract Deployment
+
+Our contracts are deployed on the Core Blockchain Testnet:
+
+```
+QuantumChessToken: 0xQCT123456789abcdef0123456789abcdef0123456
+QuantumChessGame: 0xQCG123456789abcdef0123456789abcdef0123456
+QuantumChessNFT: 0xQCN123456789abcdef0123456789abcdef0123456
+```
+
+*Note: Replace the above addresses with the actual deployed contract addresses before submitting.*
+
+## 🚦 Getting Started
+
+### Prerequisites
+- Node.js (v16+)
+- Rust (latest stable)
+- Docker and Docker Compose
+- Core Blockchain Wallet (MetaMask configured for Core)
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/quantum-chess.git
+cd quantum-chess
+```
+
+2. Install dependencies
+```bash
+npm install
+cd server && cargo build --release && cd ..
+```
+
+3. Set up environment variables
+```bash
+cp .env.example .env
+# Edit .env with your configuration
+```
+
+4. Run the development environment
+```bash
+docker-compose up -d
+npm run dev
+```
+
+5. Access the application
+```
+Web: http://localhost:3000
+API: http://localhost:8000
+```
+
+## 🎮 Gameplay Instructions
+
+1. **Connect Wallet**: Link your Core blockchain wallet to stake QCT tokens
+2. **Choose Game Mode**: Select from Classic, Quantum Casual, or Tournament
+3. **Make Quantum Moves**: Use quantum mechanics to your advantage:
+   - **Q-Shift**: Place a piece in quantum superposition
+   - **Entangle**: Connect two pieces across the board
+   - **Measure**: Force a quantum collapse to determine final piece positions
+4. **Win Conditions**: Checkmate the opponent's king across all quantum states
+
+## 🔮 Future Roadmap
+
+- **Q2 2025**: Release of Quantum Chess Multiplayer Tournament Edition
+- **Q3 2025**: Mobile apps for iOS and Android
+- **Q4 2025**: Integration with Core mainnet
+- **Q1 2026**: AI opponents trained on quantum gameplay
+- **Q2 2026**: VR/AR enhanced quantum visualization
+
+## 👥 Meet the Team
+
+| Name | Role | Contact |
+|------|------|---------|
+| Alice Quantum | Game Theory & Quantum Algorithms | [@aliceq](https://github.com/aliceq) |
+| Bob Blockchain | Smart Contract Engineer | [@bobb](https://github.com/bobb) |
+| Charlie Chain | Frontend Developer | [@charliec](https://github.com/charliec) |
+| Diana Distributed | Backend & Infrastructure | [@dianad](https://github.com/dianad) |
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🔗 Links
+
+- [Website](https://quantum-chess.example.com)
+- [Documentation](https://docs.quantum-chess.example.com)
+- [Core Blockchain](https://coredao.org)
+- [Discord Community](https://discord.gg/quantumchess)
+
+---
+
+<p align="center">
+  <img src="https://via.placeholder.com/100x100?text=QC" alt="Quantum Chess Logo" width="100">
+  <br>
+  <em>Built with ♟️ and ⚛️ for the Core Global Gaming Hackathon 2025</em>
+</p>
+
 # Quantum Chess
 
 A blockchain-based chess game with quantum mechanics implemented on the Core blockchain.
